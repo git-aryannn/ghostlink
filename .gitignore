@@ -1,0 +1,66 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.env
+
+# Logs
+*.log
+/logs/
+server.log
+listener.log
+agent.log
+/tmp/
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Operating system
+Thumbs.db
+.DS_Store
+._*
+
+# Temporary files
+*.tmp
+*.bak
+.~*
+
+# Sensitive information (if added later)
+config.local.py
+secrets.json
+.credentials
+
+# Project-specific
+*.pid
+*.lock
+results/
+output/
+downloads/
