@@ -18,6 +18,16 @@ ENV/
 # IDE and editor files
 .vscode/
 .idea/
+
+# Non-essential documentation
+GITHUB_*.md
+DEPLOYMENT_SUMMARY.txt
+STATUS.txt
+TEST_RESULTS.md
+ENHANCEMENT_SUMMARY.md
+ENHANCEMENTS.md
+IMPLEMENTATION.md
+ENCODING_GUIDE.md
 *.swp
 *.swo
 *~
