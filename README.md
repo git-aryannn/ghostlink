@@ -2,6 +2,11 @@
 
 A complete Command & Control (C2) framework with secure encrypted communication, agent beaconing, and persistent control.
 
+## Disclaimer
+
+This is an **educational C2 framework** for authorized security testing and training only. Unauthorized use is illegal. Only use in controlled environments with proper authorization.
+
+
 ## Architecture
 
 ### Phase 1: The Secure Listener (Server)
@@ -175,9 +180,6 @@ ps aux
 - **Connection Timeout**: 5 seconds
 - **Concurrent Agents**: Unlimited (limited by server resources)
 
-## Disclaimer
-
-This is an **educational C2 framework** for authorized security testing and training only. Unauthorized use is illegal. Only use in controlled environments with proper authorization.
 
 ## Future Enhancements
 
